@@ -21,6 +21,6 @@ Computer Engineering student and Full-Stack Web Developer passionate about build
 ## 📫 Reach me  
 • Email: sahilsalap75@gmail.com  
 • GitHub: @sahildev109  
-• LinkedIn: Sahil Salap  
+• LinkedIn: [Sahil Salap  ](https://sahilsalap.vercel.app/)
 
 Always learning, building, and improving.
