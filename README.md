@@ -132,8 +132,8 @@ Full-stack discussion forum with real-time chat.
 
 <div align="center">
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahildev109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildev109&layout=compact&theme=tokyonight&hide_border=true)
+![Sahil's GitHub Stats](https://github-stats-extended.vercel.app/api?username=sahildev109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sahildev109&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahildev109&theme=tokyonight&hide_border=true)
 
